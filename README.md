@@ -1,9 +1,8 @@
-# Go Hello World
-Đây là project đầu tiên học Golang của tôi!
-
+# Go Hello
+Project đầu tiên học Golang!
 ## Cách chạy
-```bash
-go run main.go
-
-##Mục tiêu
-
+bash
+go run main.go.
+## Mục tiêu
+Hiểu cú pháp Go cơ bản.
+Làm quen với Git/GitHub.
